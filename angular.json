@@ -83,6 +83,11 @@
             ],
             "styles": [
               "src/styles.css"
+            ],
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/assets/plugins/revolution/js/jquery.themepunch.tools.min.js",
+              "src/assets/plugins/revolution/js/jquery.themepunch.revolution.min.js"
             ]
           }
         }
